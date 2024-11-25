@@ -38,7 +38,7 @@ Educators can leverage this tool to create visually interesting quizzes, transfo
 
 In conclusion, the QR Codes Maze project integrates technology, history, and art to create a tool that transcends traditional quizzing methods. As the QR code mazes come to life, they carry the potential to revolutionise the way students engage with educational content.The QR Codes Maze stands poised at the intersection of creativity and learning, inviting educators to reimagine the possibilities of student engagement in the digital age.
 
-![yulepuzzle.png](QR%20Codes%20Maze%20Artistic%20Quizzing%2065d0cabb28e8403c84add68dd0d44876/yulepuzzle.png)
+![yulepuzzle.png](assets/yulepuzzle.png)
 
 This marks the completion of the final poster, where the background has been created using a diffusion model. 
 
@@ -48,9 +48,9 @@ While I've made attempts to print the poster, there have been challenges. Regret
 
 Before adopting the aforementioned model, I experimented with various others. Although they may not be scannable, I find it valuable to showcase some of the results. These iterations demonstrate interesting behaviours that could potentially be used in other generative projects.
 
-![download (12).png](QR%20Codes%20Maze%20Artistic%20Quizzing%2065d0cabb28e8403c84add68dd0d44876/download_(12).png)
+![download (12).png](assets/download_(12).png)
 
-![Untitled](QR%20Codes%20Maze%20Artistic%20Quizzing%2065d0cabb28e8403c84add68dd0d44876/Untitled.png)
+![Untitled](assets/Untitled.png)
 
-![Untitled](QR%20Codes%20Maze%20Artistic%20Quizzing%2065d0cabb28e8403c84add68dd0d44876/Untitled%201.png)
+![Untitled](assets/Untitled%201.png)
 
